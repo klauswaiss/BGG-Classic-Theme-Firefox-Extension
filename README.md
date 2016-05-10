@@ -1,0 +1,1 @@
+# BGG-Classic-Theme-Firefox-Extension
