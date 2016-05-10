@@ -1,0 +1,16 @@
+{
+  "title": "Board Game Geek Classic Theme Extension",
+  "name": "boardgamegeekclassicthemeextension",
+  "version": "1.0.0",
+  "description": "Classic theme for Board Game Geek",
+  "main": "index.js",
+  "author": "Klaus Waiss",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
