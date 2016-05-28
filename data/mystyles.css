@@ -254,3 +254,7 @@ span.summary-media-grid-count-label {
 div.summary-media-grid-count a {
 	color: white !important;
 }
+
+div.tabOff > a {
+	color: white !important;
+}
